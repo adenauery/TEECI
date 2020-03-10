@@ -18,3 +18,9 @@
      * [JabRef](http://www.jabref.org/)
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
      * [Zotero](https://www.zotero.org/)
+
+##### Plágio
+  * http://en.writecheck.com/
+  * http://www.paperrater.com/plagiarism_checker
+  * http://plagiarisma.net/
+  * http://turnitin.com/pt_br/
