@@ -9,3 +9,8 @@
 #### Encontro em 18/02/2020 - Como deve ser feita a Pesquisa em Computação?
 
   * [Metodologia de Pesquisa em Computação](https://pt.slideshare.net/lndecastro/2015-metodologia-da-pesquisa-em-computao)
+
+#### Ferramentas para Administração de Bibliografias
+ 
+   * Múltiplos arquivos BibTex
+   * [Mendeley](https://www.mendeley.com/)
