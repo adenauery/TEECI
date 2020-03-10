@@ -15,5 +15,6 @@
    * Múltiplos arquivos BibTex
    * Exemplos de Ferramentas de Gerenciamento:
      * [Mendeley](https://www.mendeley.com/)
+     * [JabRef](http://www.jabref.org/)
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
      * [Zotero](https://www.zotero.org/)
