@@ -14,3 +14,5 @@
  
    * Múltiplos arquivos BibTex
    * [Mendeley](https://www.mendeley.com/)
+   * [EndNote](https://clarivate.libguides.com/endnote_training/home)
+   * [Zotero](https://www.zotero.org/)
