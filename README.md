@@ -10,7 +10,7 @@
 
   * [Metodologia de Pesquisa em Computação](https://pt.slideshare.net/lndecastro/2015-metodologia-da-pesquisa-em-computao)
 
-#### Ferramentas para Administração de Bibliografias
+#### Encontro em 10/03/2020 - Ferramentas para Administração de Bibliografias
  
    * Múltiplos arquivos BibTex
    * Exemplos de Ferramentas de Gerenciamento:
