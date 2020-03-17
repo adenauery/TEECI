@@ -24,3 +24,7 @@
     * http://www.paperrater.com/plagiarism_checker
     * http://plagiarisma.net/
     * http://turnitin.com/pt_br/
+
+#### Encontro em 17/03/2020 - Definindo o Tipo de Pesquisa
+
+  * Material de Base: [Tipos de Pesquisa em Computação do Livro Metodologia de Pesquisa para Ciência da Computação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=tipos-de-pesquisa-em-computacao.pdf)
