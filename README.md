@@ -24,6 +24,7 @@
     * http://www.paperrater.com/plagiarism_checker
     * http://plagiarisma.net/
     * http://turnitin.com/pt_br/
+    * https://www.ieee.org/publications/rights/cross-check-portal.html
 
 #### Encontro em 17/03/2020 - Definindo o Tipo de Pesquisa
 
