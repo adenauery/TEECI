@@ -30,3 +30,10 @@
 
   * Material de Base: 
     * [Tipos de Pesquisa em Computação do Livro Metodologia de Pesquisa para Ciência da Computação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=tipos-de-pesquisa-em-computacao.pdf)
+
+#### Encontro em 24/03/2020 - Definindo o Tipo de Pesquisa (continuação)
+  * Continuação das discussões
+
+#### Encontro em 31/03/2020 - Avaliação de Trabalhos em Computacão
+  * [Método TAM](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=avaliacao_dissertacao_rogerio_albandes.pdf)
+  
