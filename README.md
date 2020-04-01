@@ -36,4 +36,5 @@
 
 #### Encontro em 31/03/2020 - Avaliação de Trabalhos em Computacão
   * [Método TAM](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=avaliacao_dissertacao_rogerio_albandes.pdf)
+  * [Métodos de pesquisa quantitativa e qualitativa para a Ciência da Computação](https://www.ic.unicamp.br/~wainer/papers/metod07.pdf)
   
