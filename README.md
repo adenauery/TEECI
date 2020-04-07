@@ -38,3 +38,5 @@
   * [Método TAM](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=avaliacao_dissertacao_rogerio_albandes.pdf)
   * [Métodos de pesquisa quantitativa e qualitativa para a Ciência da Computação](https://www.ic.unicamp.br/~wainer/papers/metod07.pdf)
   
+#### Encontro em 31/03/2020 - Conectando as partes de um Trabalho Ciêntífico
+  * Da Motivação a Avaliação
