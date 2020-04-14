@@ -39,5 +39,8 @@
   * [Métodos de pesquisa quantitativa e qualitativa para a Ciência da Computação](https://www.ic.unicamp.br/~wainer/papers/metod07.pdf)
   
 #### Encontro em 31/03/2020 - Conectando as partes de um Trabalho Ciêntífico
-  * Da Motivação à Avaliação por meio de Mapas Mentais
+  * Deste a Motivação até a Avaliação por meio de Mapas Mentais
   * [COGGLE](https://coggle.it/)
+
+#### Encontro em 07/04/2020 - Conectando as partes (continuação ...)
+  * [Discutindo as abordagens Top-Down e Bottom-Up](https://pt.wikipedia.org/wiki/Abordagem_top-down_e_bottom-up)
