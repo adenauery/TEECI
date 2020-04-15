@@ -41,6 +41,7 @@
 #### Encontro em 31/03/2020 - Conectando as partes de um Trabalho Ciêntífico
   * Deste a Motivação até a Avaliação por meio de Mapas Mentais
   * [COGGLE](https://coggle.it/)
-
+  * [Whimsical](https://whimsical.com/) - sugestão Matheus utilizado como exemplo
+ 
 #### Encontro em 07/04/2020 - Conectando as partes (continuação ...)
   * [Discutindo as abordagens Top-Down e Bottom-Up](https://pt.wikipedia.org/wiki/Abordagem_top-down_e_bottom-up)
