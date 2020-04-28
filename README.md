@@ -45,3 +45,6 @@
  
 #### Encontro em 07/04/2020 - Conectando as partes (continuação ...)
   * [Discutindo as abordagens Top-Down e Bottom-Up](https://pt.wikipedia.org/wiki/Abordagem_top-down_e_bottom-up)
+
+#### Encontro em 14/04/2020 - Conectando as partes (continuação ...)
+  * Continuação da discussão das abordagens
