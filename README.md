@@ -48,3 +48,8 @@
 
 #### Encontro em 14/04/2020 - Conectando as partes (continuação ...)
   * Continuação da discussão das abordagens
+
+#### Encontro em 21/04/2020 - Feriado
+
+#### Encontro em 28/04/2020 - Feriado
+  * Continuação da discussão das abordagens
