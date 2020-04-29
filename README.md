@@ -54,11 +54,10 @@
 #### Encontro em 28/04/2020
   * Continuação da discussão das abordagens
 
-#### Encontro em 05/05/2020
-  * Conclusão da Primeira Etapa de Avaliação
-  * Abordagem: realização de uma apresentação sobre o que será desenvolvido no TCC, empregando uma visão Top-Down.
-  * Nesta abordagem Top-Down, se deverá partir dos aspectos mais gerais do trabalho e avançar para o maior número de detalhes organizados até o momento.
-  * Empregar o Resumo que foi preparado para o prof. Cláudio como ponto de partida.
+#### Encontro em 05/05/2020 - Conclusão da Primeira Etapa de Avaliação
+  * Realização pelos alunos de uma apresentação sobre o que será desenvolvido no seu TCC, empregando uma abordagem Top-Down.
+  * Esta abordagem Top-Down deverá partir dos aspectos mais gerais do trabalho e avançar para o maior número de detalhes organizados até o momento.
+  * O Resumo que foi preparado para o prof. Cláudio deverá ser utilizado como ponto de partida.
   * Enviar a apresentação em formato PDF para o professor. Ela será compartilhada com os colegas no Repositório da Disciplina (https://github.com/adenauery/TEECI). O envio pode ser feito até o horário da aula, às 19:15 h.
 
 Vamos conversando, abraços.
