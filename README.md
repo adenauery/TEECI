@@ -1,4 +1,4 @@
-### TÓPICOS ESPECIAIS DE ENGENHARIA DA COMPUTAÇÃO I
+### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
 
 #### Encontro em 18/02/2020 - Construindo o Estado da Arte
 
