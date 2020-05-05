@@ -59,6 +59,6 @@
   * Esta abordagem Top-Down deverá partir dos aspectos mais gerais do trabalho e avançar para o maior número de detalhes organizados até o momento.
   * O Resumo que foi preparado para o prof. Cláudio deverá ser utilizado como ponto de partida.
   * Enviar a apresentação em formato PDF para o professor. Ela será compartilhada com os colegas no Repositório da Disciplina (https://github.com/adenauery/TEECI). O envio pode ser feito até o horário da aula, às 19:15 h.
-  * Apresentações:
+  * *Apresentações:*
     *  [Victor H. S. Lima](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Victor-Lima.pdf)
   
