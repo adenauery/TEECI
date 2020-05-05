@@ -62,4 +62,5 @@
   * **Apresentações:**
     * [Victor Lima](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Victor-Lima.pdf)
     * [Matheus Protzen](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Matheus-Protzen.pdf)
+    * [Thayná Almeida]()
   
