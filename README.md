@@ -61,5 +61,5 @@
   * Enviar a apresentação em formato PDF para o professor. Ela será compartilhada com os colegas no Repositório da Disciplina. O envio pode ser feito até o horário da aula, às 19:15 h.
   * **Apresentações:**
     * [Victor H. S. Lima](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Victor-Lima.pdf)
-    * [Matheus Protezen](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Matheus-Protzen.pdf)
+    * [Matheus Protzen](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Matheus-Protzen.pdf)
   
