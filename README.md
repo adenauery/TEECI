@@ -68,6 +68,6 @@
   * Live participação da turma na Live do Governador do Estado Eduardo Leite
 
 #### Encontro em 19/05/2020
-##### Gravando Dados Coletados em uma Plataforma de Nuvem
-  * Registro histórico dos dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
-  * Visualizando os dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
+  * Gravando Dados Coletados em uma Plataforma de Nuvem
+    * Registro histórico dos dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
+    * Visualizando os dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
