@@ -70,8 +70,8 @@
 #### Encontro em 19/05/2020
   * Gravando Dados Coletados em uma Plataforma de Nuvem
     * Registro histórico dos dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/)
-    Link planilha: https://docs.google.com/spreadsheets/d/1lRR0R6ltVau9tud3vtmxyNm-4GItaHIOiT0dpFux78Q/
-    URL de publicação: https://script.google.com/macros/s/AKfycbyTyvasEcF-Gk46DN6VN31II5s1BiuJxFNMJM-qvUEzNiO09lNt/exec?temperatura=<valor a ser publicado>
+    * Link planilha: https://docs.google.com/spreadsheets/d/1lRR0R6ltVau9tud3vtmxyNm-4GItaHIOiT0dpFux78Q/
+    * URL de publicação: https://script.google.com/macros/s/AKfycbyTyvasEcF-Gk46DN6VN31II5s1BiuJxFNMJM-qvUEzNiO09lNt/exec?temperatura=<valor a ser publicado>
     
     
     
