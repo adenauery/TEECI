@@ -5,8 +5,10 @@
   * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
   * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
+  
+#### Encontro em 25/02/2020 - Recesso de Carnaval 
 
-#### Encontro em 18/02/2020 - Como deve ser feita a Pesquisa em Computação?
+#### Encontro em 03/03/2020 - Como deve ser feita a Pesquisa em Computação?
 
   * [Metodologia de Pesquisa em Computação](https://pt.slideshare.net/lndecastro/2015-metodologia-da-pesquisa-em-computao)
 
@@ -37,22 +39,19 @@
 #### Encontro em 31/03/2020 - Avaliação de Trabalhos em Computacão
   * [Método TAM](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=avaliacao_dissertacao_rogerio_albandes.pdf)
   * [Métodos de pesquisa quantitativa e qualitativa para a Ciência da Computação](https://www.ic.unicamp.br/~wainer/papers/metod07.pdf)
-  
-#### Encontro em 31/03/2020 - Conectando as partes de um Trabalho Ciêntífico
+
+#### Encontro em 07/04/2020 - Conectando as partes de um Trabalho Ciêntífico
   * Deste a Motivação até a Avaliação por meio de Mapas Mentais
   * [COGGLE](https://coggle.it/)
   * [Whimsical](https://whimsical.com/) - sugestão Matheus utilizado como exemplo
- 
-#### Encontro em 07/04/2020 - Conectando as partes (continuação ...)
-  * [Discutindo as abordagens Top-Down e Bottom-Up](https://pt.wikipedia.org/wiki/Abordagem_top-down_e_bottom-up)
 
-#### Encontro em 14/04/2020 - Conectando as partes (continuação ...)
+#### Encontro em 14/04/2020 - Conectando as partes de um Trabalho Científico (continuação ...)
   * Continuação da discussão das abordagens
 
 #### Encontro em 21/04/2020 - Feriado
 
-#### Encontro em 28/04/2020
-  * Continuação da discussão das abordagens
+#### Encontro em 28/04/2020 - Discutindo o Impacto das Abordagens Top-Down e Bottom-Up no pensamento computacional
+  * [Discutindo as abordagens Top-Down e Bottom-Up](https://pt.wikipedia.org/wiki/Abordagem_top-down_e_bottom-up)
 
 #### Encontro em 05/05/2020 - Conclusão da Primeira Etapa de Avaliação
   * Realização pelos alunos de uma apresentação sobre o que será desenvolvido no seu TCC, empregando uma abordagem Top-Down.
@@ -65,7 +64,7 @@
     * [Thayná Almeida](https://github.com/adenauery/TEECI/blob/master/Avaliacao-I-Thayna-Almeida.pdf)
   
 #### Encontro em 12/05/2020
-  * Live participação da turma na Live do Governador do Estado Eduardo Leite
+  * Participação da turma na Live do Governador do Rio Grande do Sul, Eduardo Leite
 
 #### Encontro em 19/05/2020
   * Gravando Dados Coletados em uma Plataforma de Nuvem
