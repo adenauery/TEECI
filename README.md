@@ -76,4 +76,6 @@
 #### Encontro em 26/05/2020   
   * Guia em Português para uma Revisão de Literatura: [link](https://github.com/adenauery/TEECI/blob/master/Guia_Para_Realizar_uma_Revisao_Sistematica_da_Literatura.pdf)
   
+#### Encontro em 02/06/2020
+ [Middlewares para IoT](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=survey-2016-middlewares-iot.pdf)
   
