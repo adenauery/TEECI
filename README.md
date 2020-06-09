@@ -79,3 +79,13 @@
 #### Encontro em 02/06/2020
  * [Middlewares para IoT](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=survey-2016-middlewares-iot.pdf)
   
+#### Encontro de 09/06/2020
+* [Discutindo as Características de um Middleware para Ambientes Ubíquos como a IoT](http://ubiq.inf.ufpel.edu.br/exehda-code/)
+
+### Encontro em 16/06/2020
+* Discutindo o Trabalho Final da Disciplina:
+  * Análise e Visualiação de Dados usando a Linguagem R - *Victor*
+  * Bancos de Dados não SQL - *Thayná*
+  * Modelo de referência para InfoVis - *Matheus*
+  
+  
