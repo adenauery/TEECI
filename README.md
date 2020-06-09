@@ -84,8 +84,8 @@
 
 ### Encontro em 16/06/2020
 * Discutindo o Trabalho Final da Disciplina:
-  * Análise e Visualiação de Dados usando a Linguagem R - *Victor*
-  * Bancos de Dados não SQL - *Thayná*
-  * Modelo de referência para InfoVis - *Matheus*
+  * Análise e Visualiação de Dados usando a Linguagem R - **Victor**
+  * Bancos de Dados não SQL - **Thayná**
+  * Modelo de referência para InfoVis - **Matheus**
   
   
