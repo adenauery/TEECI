@@ -81,6 +81,7 @@
   
 #### Encontro de 09/06/2020
 * [Discutindo as Características de um Middleware para Ambientes Ubíquos como a IoT](http://ubiq.inf.ufpel.edu.br/exehda-code/)
+* [Vídeo da Aula](https://drive.google.com/open?id=1TkdS2Um6Ui96GT3rL43aurcuuTuAqtex)
 
 #### Encontro em 16/06/2020
 * Discutindo o Trabalho Final da Disciplina:
