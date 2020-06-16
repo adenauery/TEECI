@@ -86,7 +86,21 @@
 #### Encontro em 16/06/2020
 * Discutindo o Trabalho Final da Disciplina:
   * Análise e Visualiação de Dados usando a Linguagem R - **Victor**
+    * https://devmedia.com.br/trabalhando-com-a-linguagem-r/33275
   * Bancos de Dados não SQL - **Thayná**
   * Modelo de referência para InfoVis - **Matheus**
+    * https://www.cg.tuwien.ac.at/research/vis/InfoVis.html
+    * https://www.cg.tuwien.ac.at/courses/Visualisierung1/2015W/slides/Vis1VU-2015-InfoVis.pdf
+  
+  * Apresentações:
+    * Data: 30/06/2020
+    * Conteúdo Mínimo:
+      * Motivação: porque utiliza a tecnologia; prós e contras.
+      * Uso: Exemplos típicos.
+      * Demonstrações: trechos de código que caracterizem operações típicas (exemplos de gráficos)
+      * Referências sobre a tecnologia: bibligráticas (artigos e livros) e/ou tecnológicas (sites, blogs, etc.)
+  
+    
+    
   
   
