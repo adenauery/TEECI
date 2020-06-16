@@ -88,6 +88,9 @@
   * Análise e Visualiação de Dados usando a Linguagem R - **Victor**
     * https://devmedia.com.br/trabalhando-com-a-linguagem-r/33275
   * Bancos de Dados não SQL - **Thayná**
+    * https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/?gclid=CjwKCAjw26H3BRB2EiwAy32zhU6NNmTQopp8RNRiTmGKhxwks9reVdbNd8dR8mVcuOEkT1QpwpCBehoCvHgQAvD_BwE
+    * https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/model-data-for-ruby-on-rails.html#gsc.tab=0
+    * https://docs.mongodb.com/manual/
   * Modelo de referência para InfoVis - **Matheus**
     * https://www.cg.tuwien.ac.at/research/vis/InfoVis.html
     * https://www.cg.tuwien.ac.at/courses/Visualisierung1/2015W/slides/Vis1VU-2015-InfoVis.pdf
