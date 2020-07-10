@@ -94,8 +94,10 @@
   * Modelo de referência para InfoVis - **Matheus**
     * https://www.cg.tuwien.ac.at/research/vis/InfoVis.html
     * https://www.cg.tuwien.ac.at/courses/Visualisierung1/2015W/slides/Vis1VU-2015-InfoVis.pdf
-  
-  * Apresentações:
+
+#### Encontro em 30/06/2020  
+
+  * Apresentações Finais da Disciplina - Finalização da Segunda Avaliação
     * Data: 30/06/2020
     * Conteúdo Mínimo:
       * Motivação: porque utiliza a tecnologia; prós e contras.
