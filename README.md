@@ -2,9 +2,9 @@
 
 #### Encontro em 27/07/2020 - Construindo o Estado da Arte
 
-  * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
+  * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
-  * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
+  * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
 
 ##### Ferramentas para Administração de Bibliografias
  
