@@ -15,7 +15,7 @@
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
      * [Zotero](https://www.zotero.org/)
 
-  * Plágio
+  * Verificaçãp de Plágio
     * http://www.paperrater.com/plagiarism_checker
     * http://plagiarisma.net/
     * https://www.turnitin.com/pt/produtos/feedback-studio
