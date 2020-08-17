@@ -21,7 +21,14 @@
     * https://www.turnitin.com/pt/produtos/feedback-studio
     * https://www.ieee.org/publications/rights/cross-check-portal.html
 
+03/07/2020
 
-    
+
+10/03/2020
+
+
+17/20/2020
+
+
   
   
