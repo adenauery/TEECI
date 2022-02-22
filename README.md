@@ -1,7 +1,7 @@
 ### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
 
 #### 22/03/2022
-##### Tema: Construindo o Estado da Arte
+#### Tema: Construindo o Estado da Arte
 
   * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
