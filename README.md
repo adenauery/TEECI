@@ -1,13 +1,15 @@
 ### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
 
-#### 22/03/2022
+#### 22/02/2022
 #### Tema: Construindo o Estado da Arte
 
   * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
   * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
 
-##### Ferramentas para Administração de Bibliografias
+
+#### 01/03/2022
+#### Tema: Ferramentas para Administração de Bibliografias
  
    * Múltiplos arquivos BibTex
    * Exemplos de Ferramentas de Gerenciamento:
