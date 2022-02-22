@@ -1,6 +1,7 @@
 ### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
 
-#### Encontro em 22/03/2022 - Construindo o Estado da Arte
+#### 22/03/2022
+##### Tema: Construindo o Estado da Arte
 
   * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
