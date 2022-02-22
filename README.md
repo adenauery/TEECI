@@ -1,6 +1,6 @@
 ### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
 
-#### Encontro em 27/07/2020 - Construindo o Estado da Arte
+#### Encontro em 22/03/2022 - Construindo o Estado da Arte
 
   * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
 
@@ -21,14 +21,3 @@
     * https://www.turnitin.com/pt/produtos/feedback-studio
     * https://www.ieee.org/publications/rights/cross-check-portal.html
 
-03/07/2020
-
-
-10/03/2020
-
-
-17/20/2020
-
-
-  
-  
