@@ -9,9 +9,7 @@ Neste repositório serão registrados os esforços de estudo e pesquisa a serem 
 #### 22/02/2022
 #### Tema: Construindo o Estado da Arte
 
-  * [Exemplo de Mapeamento Sistemático de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=msl_qualificacao_rafael.pdf)
-
-  * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
+ Neste [link](http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl) estão os materiais selecionados para discutir o assunto na disciplina.
 
 #### 01/03/2022
 #### Feriado de Carnaval
