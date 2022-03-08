@@ -1,4 +1,4 @@
-### TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I
+### Tópicos Especiais em Engenharia de Computação I
 
 #### 22/02/2022
 #### Tema: Construindo o Estado da Arte
@@ -7,8 +7,10 @@
 
   * [Exemplo de Revisão Sistemática de Literatura](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=rsl_tese_roger.pdf)
 
-
 #### 01/03/2022
+#### Feriado de Carnaval
+
+#### 08/03/2022
 #### Tema: Ferramentas para Administração de Bibliografias
  
    * Múltiplos arquivos BibTex
@@ -23,4 +25,3 @@
     * http://plagiarisma.net/
     * https://www.turnitin.com/pt/produtos/feedback-studio
     * https://www.ieee.org/publications/rights/cross-check-portal.html
-
