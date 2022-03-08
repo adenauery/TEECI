@@ -1,5 +1,11 @@
 ### Tópicos Especiais em Engenharia de Computação I
 
+Neste repositório serão registrados os esforços de estudo e pesquisa a serem desenvolvidos na disciplina.
+
+#### Equipe:
+* Giuseppe Ramon Parise
+* Ângelo Gawlinski Martins
+
 #### 22/02/2022
 #### Tema: Construindo o Estado da Arte
 
