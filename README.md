@@ -9,14 +9,26 @@ Neste repositório serão registrados os esforços de estudo e pesquisa a serem 
 <hr>
 
 #### 22/02/2022
-#### Tema: Construindo o Estado da Arte
+#### Tema: Apresentação da Disciplina
 
- Neste [link](http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl) estão os materiais selecionados para discutir o assunto na disciplina.
+<hr>
+
 
 #### 01/03/2022
 #### Feriado de Carnaval
 
+
+<hr>
+
 #### 08/03/2022
+#### Tema: Construindo o Estado da Arte
+
+ Neste [link](http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl) estão os materiais selecionados para discutir o assunto na disciplina.
+
+
+<hr>
+
+#### 15/03/2022
 #### Tema: Ferramentas para Administração de Bibliografias
  
    * Múltiplos arquivos BibTex
