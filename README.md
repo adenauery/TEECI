@@ -25,8 +25,7 @@ Neste repositório serão registrados os esforços de estudo e pesquisa a serem 
 
  Neste [link](http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl) estão os materiais selecionados para discutir o assunto na disciplina.
 
-
-<hr>
+ O Qulis de eventos e revistas pode ser encontrado [aqui](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 
 #### 15/03/2022
 #### Tema: Ferramentas para Administração de Bibliografias
