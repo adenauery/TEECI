@@ -27,6 +27,19 @@ Neste repositório serão registrados os esforços de estudo e pesquisa a serem 
 
  O Qulis de eventos e revistas pode ser encontrado [aqui](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 
+ˋˋˋ
+As nossas metas para discussão:
+
+a) buscar ferramentas para pesquisa de informações na web. O objetivo é localizar outras ferramentas além das que estão disponíveis no link abaixo:
+http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl
+
+b) identificar palavras chaves associadas ao TCC I a ser desenvolvido e aplicar nas ferramentas disponíveis no link acima, como forma de iniciar as reflexões sobre o que será desenvolvido.
+
+A partir deste exercício decorrente do uso das ferramentas, as palavras-chave poderão mudar, naturalmente sempre conversando com o orientador.
+
+O objetivo central será discutir o que vocês identificaram, para tanto capturem as telas das ferramentas para facilitar as argumentações, tanto em sala de aula, como depois com o orientador.
+ˋˋˋ
+
 
 <hr>
 
