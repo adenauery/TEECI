@@ -30,7 +30,7 @@ Neste repositório serão registrados os esforços de estudo e pesquisa a serem 
 
 **As nossas metas para discussão:**
 
-a) buscar ferramentas para pesquisa de informações na web. O objetivo é localizar outras ferramentas além das que estão disponíveis no link abaixo:
+a) buscar ferramentas para pesquisa de informações na Internet (utilizando o Google, sites de revistas científcas e/ou repositórios). O objetivo é localizar outras ferramentas além das que estão disponíveis no link abaixo:
 http://olaria.ucpel.edu.br/materiais/doku.php?id=ferramentas_de_busca_e_rsl
 
 b) identificar palavras chaves associadas ao TCC I a ser desenvolvido e aplicar nas ferramentas disponíveis no link acima, como forma de iniciar as reflexões sobre o que será desenvolvido.
