@@ -42,8 +42,16 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 
 <hr>
 
+#### 22/03/2022
+#### Discussão de como definir as palavras chava da pesquisa
 
-#### 15/03/2022
+Ângelo:
+
+Giuseppe:
+
+
+
+#### 29/03/2022
 #### Tema: Ferramentas para Administração de Bibliografias
  
    * Múltiplos arquivos BibTex
