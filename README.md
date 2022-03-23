@@ -45,9 +45,12 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 #### 22/03/2022
 #### Discussão de como definir as palavras chava da pesquisa
 
-Ângelo:
+**Ângelo:
 
-Giuseppe:
+**Giuseppe:
+* https://blog.even3.com.br/guia-completo-das-ferramentas-de-pesquisa/amp/
+* Guia bastante completo com a indicação de mecanismos de busca para diferentes propósitos
+
 
 
 
