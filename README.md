@@ -52,13 +52,13 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
   * https://blog.even3.com.br/guia-completo-das-ferramentas-de-pesquisa/amp/
   * Guia bastante completo com a indicação de mecanismos de busca para diferentes propósitos
 
-* Palavras-Chave associadas ao TCC:
-  * Chat Boot com as seguintes características:
+* Levantamento de Requisitos Relacionados ao TCC
+  * Desenvolvimento de um Chat Boot com as seguintes características:
     * Navegação guiada de forma hierárquica
     * Registros dos acessos feitos associando ao horário de consulta
     * Conteúdos a serem disponibilizados pelo Chat Boot registrados em arquivo. Neste arquivo teremos os conteúdos e a sua relação hierárquica
     * Dashboard com informações referentes aos acesso feito ao Chat Boot. Este Dashboard irá disponibilizar estatísticas diversas para serem analisadas.
-    * Serão monitoradas informações como temperatura, umindade e luminosidade, as quais serão associadas ao tempo e interação feita pelo usuário no Chat Boot
+    * Serão monitoradas via um embarcado informações como temperatura, umindade e luminosidade, as quais serão associadas ao tempo e interação feita pelo usuário no Chat Boot
 
 <hr>
 
