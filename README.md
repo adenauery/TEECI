@@ -55,10 +55,10 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 * Levantamento de Requisitos Relacionados ao TCC
   * Desenvolvimento de um Chat Boot com as seguintes características:
     * Navegação guiada de forma hierárquica
-    * Registros dos acessos feitos associando ao horário de consulta
+    * Registros dos acessos feitos associando aos horários de consulta
     * Conteúdos a serem disponibilizados pelo Chat Boot registrados em arquivo. Neste arquivo teremos os conteúdos e a sua relação hierárquica
     * Dashboard com informações referentes aos acesso feito ao Chat Boot. Este Dashboard irá disponibilizar estatísticas diversas para serem analisadas.
-    * Serão monitoradas via um embarcado informações como temperatura, umindade e luminosidade, as quais serão associadas ao tempo e interação feita pelo usuário no Chat Boot
+    * Serão monitoradas via um embarcado informações como temperatura, umidade e luminosidade, as quais serão associadas ao tempo e as interações feitas pelo usuário no Chat Boot
 
 <hr>
 
