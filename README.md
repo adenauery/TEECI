@@ -65,7 +65,7 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 
 * **Ângelo:**
   * **Plano de Ação do TCC I:** 
-    * **Título: ** Uma abordagem para Suporte a Coleta e Análise de Dados para Prevenção de Doenças Epidemiológicas
+    * **Título:** Uma abordagem para Suporte a Coleta e Análise de Dados para Prevenção de Doenças Epidemiológicas
     * **Resumo de 200 palavras:** Em tecnologia, um banco de dados é um repositório sistêmico de informações. Estas informações são relacionadas a alguma coisa ou a alguém. Podem ser, por exemplo, dados internos de uma empresa, nome e email de usuários cadastrados em uma rede social, entre outros. Neste contexto, o sistema de banco de dados tem como principais vantagens o aumento da produtividade, o aumento da segurança, o melhor relacionamento entre os dados de diferentes setores, melhor planejamento e padronização dos dados e redução dos riscos em relação à segurança de rede. Neste sentido acredita-se que o armazenamento e acesso a informações relacionadas a doenças epidemiológicas como Covid-19 pode auxiliar no processo de prevenção a estas doenças. Esta realidade vivenciada em diversos países em surtos hospitalares e comunitários, traz preocupação social e profissional pela necessidade de reavaliação dos protocolos para prevenção da COVID-19 entre as pessoas expostas ao vírus durante suas atividades laborais. Considerando a emergência global do tema e a repercussão local, este projeto visa auxiliar nas ações de prevenção de contágio relacionadas à exposição da comunidade. Assim, o presente trabalho tem como objetivo desenvolver e analisar um banco de dados que irá armazenar dados relacionados a prevenção de doenças epidemiológicas como Covid-19.
 
 * **Giuseppe:**
