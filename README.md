@@ -61,8 +61,9 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 <hr>
 
 #### 29/03/2022
+#### Discussão dos Planos de TCC I
 
-**Ângelo:**
+### Ângelo:###
 
 Plano de Ação TCC I
 
@@ -85,7 +86,6 @@ contágio relacionadas à exposição da comunidade.
 Assim, o presente trabalho tem como objetivo desenvolver e analisar um
 banco de dados que irá armazenar dados relacionados a prevenção de doenças
 epidemiológicas como Covid-19.
-
 
 
 #### Tema: Ferramentas para Administração de Bibliografias
