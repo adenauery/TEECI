@@ -63,9 +63,9 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 #### 29/03/2022
 #### Discussão dos Planos de TCC I
 
-### Ângelo:###
+### Ângelo:
 
-Plano de Ação TCC I
+**Plano de Ação do TCC I**
 
 Em tecnologia, um banco de dados é um repositório sistêmico de
 informações. Estas informações são relacionadas a alguma coisa ou a alguém.
