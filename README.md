@@ -75,7 +75,7 @@ O objetivo central será discutir o que vocês identificaram, para tanto capture
 necessidade de reavaliação dos protocolos para prevenção da COVID-19 entre as pessoas expostas ao vírus. Considerando a emergência global do tema, este projeto visa auxiliar em técnicas de prevenção de contágio relacionadas à exposição da comunidade frente à COVID-19. Acredita-se que os sistemas de recomendação podem auxiliar no processo de prevenção destas doenças. Sistemas de recomendação sugerem que os itens de interesse devem explorar as preferências dos usuários de forma a ajudá-los a controlar o problema. Estes sistemas eram construídos, exclusivamente, através de técnicas com origem nas áreas de Recuperação de Informação e Aprendizado de Máquina. Sendo assim este trabalho propõe um sistema confiável para recomendação de ações de prevenção contra Doenças Epidemiológicas Transmissíveis como a Covid-19.
 
 #### 05/04/2022
-### Uso Overleaf:
+##### Uso Overleaf:
 * https://www.overleaf.com/
 
 
