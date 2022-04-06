@@ -78,7 +78,8 @@ necessidade de reavaliação dos protocolos para prevenção da COVID-19 entre a
 
 #### 05/04/2022
 ##### Uso do LaTeX via Overleaf:
-* https://www.overleaf.com/
+* Ambiente on-line para edição de documentos empregando o LaTeX: https://www.overleaf.com/
+* Informações sobre o LaTeX: http://olaria.ucpel.edu.br/latex/
 
 <hr>
 
