@@ -77,7 +77,7 @@ necessidade de reavaliação dos protocolos para prevenção da COVID-19 entre a
 <hr>
 
 #### 05/04/2022
-##### Uso Overleaf:
+##### Uso do LaTeX via Overleaf:
 * https://www.overleaf.com/
 
 <hr>
