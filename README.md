@@ -93,7 +93,7 @@ Estudo de Caso envolvendo um TCC completo
 #### 19/04/2022
 #### Tema: Ferramentas para Administração de Bibliografias
 
-**Uso de Ferramentas para agendamento de reuniões:
+**Uso de Ferramentas para agendamento de reuniões:**
    * https://doodle.com/premium
 
 
