@@ -84,6 +84,13 @@ necessidade de reavaliação dos protocolos para prevenção da COVID-19 entre a
 <hr>
 
 #### 12/04/2022
+#### Tema: Estudo de Caso envolvendo TCC em LaTeX
+
+Estudo de Caso envolvendo um TCC completo
+
+<hr>
+
+#### 19/04/2022
 #### Tema: Ferramentas para Administração de Bibliografias
 
    * Múltiplos arquivos BibTex
