@@ -96,9 +96,10 @@ Estudo de Caso envolvendo um TCC completo
 **Uso de Ferramentas para agendamento de reuniões:**
    * https://doodle.com/premium
 
+**Ferramentas para Gerencia de Bibliografias:**
 
    * Múltiplos arquivos BibTex
-   * Exemplos de Ferramentas de Gerenciamento:
+   * Softwares para Gerenciamento de Artigos:
      * [Mendeley](https://www.mendeley.com/)
      * [JabRef](http://www.jabref.org/)
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
