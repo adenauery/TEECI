@@ -99,10 +99,10 @@ Estudo de Caso envolvendo um TCC completo
 #### 26/04/2022
 #### Tema: APIs para dispositivos da IoT
 
+[Tuya mini 16a/10a wifi interruptor](https://produto.mercadolivre.com.br/MLB-2183567289-tuya-mini-interruptor-wifi-inteligente-16a-alexa-goog-sonoff-_JM?matt_tool=45029758&matt_word=&matt_source=google&matt_campaign_id=14302215522&matt_ad_group_id=134553699828&matt_match_type=&matt_network=g&matt_device=c&matt_creative=539425477825&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=528775658&matt_product_id=MLB2183567289&matt_product_partition_id=1405369424543&matt_target_id=pla-1405369424543&gclid=CjwKCAjwsJ6TBhAIEiwAfl4TWKUZN4A3-eRXi0weIGvR5jcVaLqepHoVws--1qFB2khO6cyuCW6dphoCRGwQAvD_BwE)
 
 
-
-
+#### 03/05/2022
 **Ferramentas para Gerencia de Bibliografias:**
 
    * Múltiplos arquivos BibTex
