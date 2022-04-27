@@ -96,6 +96,13 @@ Estudo de Caso envolvendo um TCC completo
 **Uso de Ferramentas para agendamento de reuniões:**
    * https://doodle.com/premium
 
+#### 26/04/2022
+#### Tema: APIs para dispositivos da IoT
+
+
+
+
+
 **Ferramentas para Gerencia de Bibliografias:**
 
    * Múltiplos arquivos BibTex
