@@ -104,6 +104,12 @@ Estudo de Caso envolvendo um TCC completo
 
 #### 03/05/2022
 
+  * Verificaçãp de Plágio
+    * http://www.paperrater.com/plagiarism_checker
+    * http://plagiarisma.net/
+    * https://www.turnitin.com/pt/produtos/feedback-studio
+    * https://www.ieee.org/publications/rights/cross-check-portal.html
+
 #### 10/05/2022
 
 * Apresentação do Estado do TCC I - Primeira Avaliação
@@ -122,8 +128,3 @@ Estudo de Caso envolvendo um TCC completo
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
      * [Zotero](https://www.zotero.org/)
 
-  * Verificaçãp de Plágio
-    * http://www.paperrater.com/plagiarism_checker
-    * http://plagiarisma.net/
-    * https://www.turnitin.com/pt/produtos/feedback-studio
-    * https://www.ieee.org/publications/rights/cross-check-portal.html
