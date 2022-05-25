@@ -128,3 +128,5 @@ Estudo de Caso envolvendo um TCC completo
      * [EndNote](https://clarivate.libguides.com/endnote_training/home)
      * [Zotero](https://www.zotero.org/)
 
+   * Que outras ferramentas existem além destas quatro?!
+
