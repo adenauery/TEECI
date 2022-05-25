@@ -103,6 +103,16 @@ Estudo de Caso envolvendo um TCC completo
 
 
 #### 03/05/2022
+
+#### 10/05/2022
+
+* Apresentação do Estado do TCC I - Primeira Avaliação
+
+#### 17/05/2022
+
+* Tufão sub-tropical. Falta de luz.
+
+#### 24/05/2022
 **Ferramentas para Gerencia de Bibliografias:**
 
    * Múltiplos arquivos BibTex
