@@ -119,7 +119,7 @@ Estudo de Caso envolvendo um TCC completo
 * Tufão sub-tropical. Falta de luz.
 
 #### 24/05/2022
-**Ferramentas para Gerencia de Bibliografias:**
+**Ferramentas para Gerência de Bibliografias:**
 
    * Múltiplos arquivos BibTex
    * Softwares para Gerenciamento de Artigos:
