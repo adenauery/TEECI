@@ -130,3 +130,7 @@ Estudo de Caso envolvendo um TCC completo
 
    * Que outras ferramentas existem além destas quatro?!
 
+
+#### 31/05/2022
+
+   * Não ocorreu encontro. Professor envolvido com a Quadrienal da CAPES.
