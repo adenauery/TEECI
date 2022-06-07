@@ -138,3 +138,6 @@ Estudo de Caso envolvendo um TCC completo
 #### 07/06/2022
 
    * Comentários avançados em LaTeX
+   * Trabalhos para o dia 14/06/2022
+     * Bancos de Dados
+     * Chat Bots 
