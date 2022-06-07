@@ -134,3 +134,7 @@ Estudo de Caso envolvendo um TCC completo
 #### 31/05/2022
 
    * Não ocorreu encontro. Professor envolvido com a Quadrienal da CAPES.
+
+#### 07/06/2022
+
+   * Comentários avançados em LaTeX
