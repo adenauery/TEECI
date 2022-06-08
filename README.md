@@ -140,6 +140,6 @@ Estudo de Caso envolvendo um TCC completo
    * Comentários avançados em LaTeX
    * Trabalhos para o dia 14/06/2022
      * **Bancos de Dados:**
-       * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com um figura explicativa.
+       * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com um figura explicativa. Ao final fazer cuma comparação resumida indicando. Ao final fazer cuma comparação resumida indicando a proposta de banco que melhor se adeque ao projeto uDemos.
      * **Chat Bots:**
-       * Comparação entre três Bots Telegram de amplo reconhecimento pela comunidade internacional
+       * Comparação entre três Bots Telegram de amplo reconhecimento pela comunidade internacional: para cada ChatBot teríamos duas páginas de texto. Ao final fazer cuma comparação resumida indicando o ChatBot que melhor se adequa a proposta do projeto uDemos.
