@@ -139,7 +139,8 @@ Estudo de Caso envolvendo um TCC completo
 
    * Comentários avançados em LaTeX
        *  \usepackage[color=green!40]{todonotes}
-       *  \newcommand {\AY} {\todo[inline, color=yellow]}. %Revisão Adenauer
+       *  \newcommand {\AY} {\todo[inline, color=yellow]} %Revisão Adenauer
+       *  \newcommand {\AYB}{\todo[fancyline, size=\footnotesize, color=yellow!40]}
 
 
 
