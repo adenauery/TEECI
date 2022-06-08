@@ -138,8 +138,8 @@ Estudo de Caso envolvendo um TCC completo
 #### 07/06/2022
 
    * Comentários avançados em LaTeX
-     \usepackage[color=green!40]{todonotes}
-     \newcommand {\AY} {\todo[inline, color=yellow]}%Revisão Adenauer
+       *  \usepackage[color=green!40]{todonotes}
+       *  \newcommand {\AY} {\todo[inline, color=yellow]}%Revisão Adenauer
 
 
 
