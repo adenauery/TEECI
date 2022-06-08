@@ -141,5 +141,5 @@ Estudo de Caso envolvendo um TCC completo
    * Trabalhos para o dia 14/06/2022
      * **Bancos de Dados:**
        * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com um figura explicativa.
-     * **Chat Bots:
+     * **Chat Bots:**
        * Comparação entre três Bots Telegram de amplo reconhecimento pela comunidade internacional
