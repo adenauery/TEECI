@@ -138,6 +138,12 @@ Estudo de Caso envolvendo um TCC completo
 #### 07/06/2022
 
    * Comentários avançados em LaTeX
+     \usepackage[color=green!40]{todonotes}
+     \newcommand {\AY} {\todo[inline, color=yellow]}%Revisão Adenauer
+
+
+
+
    * Trabalhos para o dia 14/06/2022
      * **Bancos de Dados:**
        * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com um figura explicativa. Ao final fazer cuma comparação resumida indicando. Ao final fazer cuma comparação resumida indicando a proposta de banco que melhor se adeque ao projeto uDemos.
