@@ -152,8 +152,7 @@ Estudo de Caso envolvendo um TCC completo
 
 #### 14/06/2022
 
- * Chat Bot: Requisitos Funcionais considerando as demandas do projeto uDemos
-
  * Banco de Dados: Procedimentos e estrutura de dados (tabelas) para o login do usuário no uDemos
 
+ * Chat Bot: Requisitos Funcionais considerando as demandas do projeto uDemos
 
