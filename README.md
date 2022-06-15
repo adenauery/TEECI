@@ -142,11 +142,17 @@ Estudo de Caso envolvendo um TCC completo
        *  \newcommand {\AY} {\todo[inline, color=yellow]} %Revisão Adenauer
        *  \newcommand {\AYB}{\todo[fancyline, size=\footnotesize, color=yellow!40]}
 
-
-
-
    * Trabalhos para o dia 14/06/2022
+
      * **Bancos de Dados:**
-       * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com um figura explicativa. Ao final fazer uma comparação resumida indicando. Ao final fazer uma comparação resumida indicando a proposta de banco que melhor se adeque ao projeto uDemos.
+       * Comparação entre propostas SQL e Não-SQL: para cada uma das propostas teríamos 2 páginas de texto, cada uma com uma figura explicativa. Ao final fazer uma comparação resumida indicando. Ao final fazer uma comparação resumida indicando a proposta de banco que melhor se adeque ao projeto uDemos.
+ 
      * **Chat Bots:**
        * Comparação entre três Bots Telegram de amplo reconhecimento pela comunidade internacional: para cada ChatBot teríamos duas páginas de texto com uma figura explicativa. Ao final fazer uma comparação resumida indicando o ChatBot que melhor se adequa a proposta do projeto uDemos.
+
+#### 14/06/2022
+
+     * Chat Bot: Requisitos Funcionais
+     * Banco de Dados: Procedimentos e estrutura de dados (tabelas) para o login do usuário
+
+
