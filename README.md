@@ -152,7 +152,8 @@ Estudo de Caso envolvendo um TCC completo
 
 #### 14/06/2022
 
-     * Chat Bot: Requisitos Funcionais
-     * Banco de Dados: Procedimentos e estrutura de dados (tabelas) para o login do usuário
+ * Chat Bot: Requisitos Funcionais
+
+ * Banco de Dados: Procedimentos e estrutura de dados (tabelas) para o login do usuário
 
 
