@@ -152,7 +152,22 @@ Estudo de Caso envolvendo um TCC completo
 
 #### 14/06/2022
 
+Discussão de requisitos para avanço do TCC I
+
  * Banco de Dados: Procedimentos e estrutura de dados (tabelas) para o login do usuário no uDemos
 
  * Chat Bot: Requisitos Funcionais considerando as demandas do projeto uDemos
+
+#### 21/06/2022
+
+ * Chat Bot: Requisitos Funcionais considerando as demandas do projeto uDemos:
+   * Possuir um tópico pré pronto de perguntas que o usuário deve escolher.
+   * Possuir comunicação com banco de dados para coleta de informações.
+   * Gerar e informar estatísticas com base na informação do local passado (cidade ,estado,etc).
+   * Informar comandos não existentes.
+   * Responder perguntas sobre prevenção de Covid-19
+   * Responder perguntas sobre sintomas da Covid-19
+   * Responder perguntas sobre nro de pessoas infectadas e mortes em 24h
+   * Auxiliar na identificação do contágio a partir de possíveis questionamentos
+   * Indicar locais de serviço de atendimento médico e seu horário de funcionamento
 
