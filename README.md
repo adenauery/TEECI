@@ -160,7 +160,12 @@ Discussão de requisitos para avanço do TCC I
 
 #### 21/06/2022
 
- * Chat Bot: Requisitos Funcionais considerando as demandas do projeto uDemos:
+ * Chat Bot: 
+ * Alternativas:
+   *  ferramentas de chatbot - https://blog.b2bstack.com.br/ferramentas-chatbot/
+   *  os melhores chatbots do mercado - https://leadster.com.br/blog/melhores-chatbots/
+   *  Bot específico para Covid-19: https://savelivez.com/livia-bot-chatbot-que-tira-duvidas-sobre-o-coronavirus-covid-19-e-sobre-doacao-de-sangue/
+ * Requisitos Funcionais considerando as demandas do projeto uDemos:
    * Possuir um tópico pré pronto de perguntas que o usuário deve escolher.
    * Possuir comunicação com banco de dados para coleta de informações.
    * Gerar e informar estatísticas com base na informação do local passado (cidade ,estado,etc).
@@ -170,4 +175,5 @@ Discussão de requisitos para avanço do TCC I
    * Responder perguntas sobre nro de pessoas infectadas e mortes em 24h
    * Auxiliar na identificação do contágio a partir de possíveis questionamentos
    * Indicar locais de serviço de atendimento médico e seu horário de funcionamento
+   
 
