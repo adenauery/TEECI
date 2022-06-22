@@ -176,4 +176,8 @@ Discussão de requisitos para avanço do TCC I
    * Auxiliar na identificação do contágio a partir de possíveis questionamentos
    * Indicar locais de serviço de atendimento médico e seu horário de funcionamento
    
+#### 28/06/2022
 
+   * Ângelo: Apresentação sobre Banco de Dados Relacional & Não Relacional
+   * Giuseppe: Apresentar a seleção de ChatBots (3 no máximo) & requisitos funcionais
+ 
